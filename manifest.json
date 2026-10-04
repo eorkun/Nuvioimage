@@ -1,9 +1,325 @@
-{
-  "name": "SafakStream Repository",
-  "description": "CloudStream extensions by SafakStream",
-  "manifestVersion": 1,
-  "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/logo.png",
-  "pluginLists": [
-    "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/plugins.json"
+[
+  {
+  "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/canlitv.png",
+  "fileHash": "sha256-a0bcad8dd3755581f2f7d791f9db7934ba9ed5e0e63df4810fa7d177b2255fee",
+  "apiVersion": 1,
+  "repositoryUrl": "https://github.com/SafakStream/SafakStream",
+  "fileSize": 20266,
+  "status": 1,
+  "language": "tr",
+  "authors": [
+    "SafakStream"
+  ],
+  "tvTypes": [
+    "Live"
+  ],
+  "version": 1,
+  "pluginClassName": "com.safakstream.canlitv.CanliTVPlugin",
+  "internalName": "CanliTV",
+  "description": "SafakStream Canlı TV Eklentisi",
+  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/CanliTV.cs3",
+  "name": "CanliTV"
+},
+  {
+  "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/cinestream.png",
+  "fileHash": "sha256-00c2f0c303fb0d4212424ac70ed69c2beba8600dbc389e3fe678e6e8c3588971",
+  "apiVersion": 1,
+  "repositoryUrl": "https://github.com/SafakStream/SafakStream",
+  "fileSize": 690281,
+  "status": 1,
+  "language": "en",
+  "authors": [
+    "SafakStream"
+  ],
+  "tvTypes": [
+    "TvSeries",
+    "Movie",
+    "AsianDrama",
+    "Anime",
+    "Torrent"
+  ],
+  "version": 1,
+  "internalName": "CineStream",
+  "description": "SafakStream CineStream eklentisi.",
+  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/CineStream.cs3",
+  "name": "CineStream"
+},
+  {
+  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/Cinemacity.cs3",
+  "status": 1,
+  "version": 1,
+  "name": "Cinemacity",
+  "internalName": "Cinemacity",
+  "authors": [
+    "SafakStream"
+  ],
+  "description": "Filmleri ve Dizileri İzleyin",
+  "fileSize": 106812,
+  "repositoryUrl": "https://github.com/SafakStream/SafakStream",
+  "language": "tr",
+  "tvTypes": [
+    "Movie",
+    "TvSeries"
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/cinemacity.png",
+  "apiVersion": 1,
+  "fileHash": "sha256-be250125f7ccbcb5ee52650c307998aa5db55805dcfd9807846049d1fb9ae59a"
+},
+  {
+    "name": "DiziKorea",
+    "internalName": "DiziKorea",
+    "pluginClassName": "com.safakstream.dizikorea.DiziKoreaPlugin",
+    "description": "En Güncel Kore Dizileri izleme Sitesi",
+    "authors": [
+      "SafakStream"
+    ],
+    "version": 1,
+    "apiVersion": 1,
+    "status": 1,
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/dizikorea.png",
+    "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/DiziKorea.cs3",
+    "repositoryUrl": "https://github.com/SafakStream/SafakStream",
+    "fileHash": "sha256-061fa6d0ab1f0958073a7796e981a6431c7f7ec9939c6595bc5d7b8e4d3fe698",
+    "fileSize": 23254
+  },
+  {
+  "name": "DiziYou",
+  "internalName": "DiziYou",
+  "pluginClassName": "com.safakstream.diziyou.DiziYouPlugin",
+  "version": 1,
+  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/DiziYou.cs3",
+  "fileHash": "sha256-363aa4b5fafd029d25a52b59ea3a16bbd7eab6ec59863dcd0bf4e356f551545a",
+  "fileSize": 16987,
+  "apiVersion": 1,
+  "repositoryUrl": "https://github.com/SafakStream/SafakStream",
+  "authors": [
+    "SafakStream"
+  ],
+  "status": 1,
+  "language": "tr",
+  "tvTypes": [
+    "TvSeries"
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/diziyou.png",
+  "description": "SafakStream DiziYou Eklentisi"
+},
+  {
+  "name": "Dizilla",
+  "internalName": "Dizilla",
+  "pluginClassName": "com.safakstream.dizilla.DizillaPlugin",
+  "version": 1,
+  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/Dizilla.cs3",
+  "fileHash": "sha256-e98140fa97700a0a98e096e3e5a8f8fac77b54046241af0df56878ffa70bcfc5",
+  "fileSize": 35877,
+  "apiVersion": 1,
+  "repositoryUrl": "https://github.com/SafakStream/SafakStream",
+  "authors": [
+    "SafakStream"
+  ],
+  "status": 1,
+  "language": "tr",
+  "tvTypes": [
+    "TvSeries"
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/Dizilla.png",
+  "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz."
+},
+  {
+    "name": "HDFilmCehennemi",
+    "internalName": "HDFilmCehennemi",
+    "pluginClassName": "com.safakstream.hdfilmcehennemi.HDFilmCehennemiPlugin",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/HDFilmCehennemi.cs3",
+    "fileHash": "sha256-0ca7de8f87ba7e1ec8079cc49f9e02551d9870897a5cd09cf2b8615406319e23",
+    "fileSize": 86458,
+    "status": 1,
+    "authors": [
+      "SafakStream"
+    ],
+    "description": "HDFilmCehennemi dizi, film ve anime sağlayıcısı.",
+    "repositoryUrl": "https://github.com/SafakStream/SafakStream",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/HDFilmCehennemi.jpeg",
+    "apiVersion": 1
+  },
+  {
+  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/NetVGold.cs3",
+  "status": 1,
+  "version": 1,
+  "name": "NETV Gold",
+  "internalName": "NetVGold",
+  "authors": [
+    "SafakStream"
+  ],
+  "description": "NETV Gold canlı spor kanalları",
+  "fileSize": 169913,
+  "repositoryUrl": "https://github.com/SafakStream/SafakStream",
+  "language": "tr",
+  "tvTypes": [
+    "Live"
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/NetVGold.png",
+  "apiVersion": 1,
+  "fileHash": "sha256-733ed4ad010c93a6f4fd5fed2fad0951b6a5fabe8db0007039e899f29554aef5"
+  },
+  {
+  "name": "WatchParty",
+  "internalName": "WatchParty",
+  "pluginClassName": "com.safakstream.watchparty.WatchPartyPlugin",
+  "version": 1,
+  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/WatchParty.cs3",
+  "fileHash": "sha256-f009c625c6c973bbe06a277888928065d547600b022ec8562e5a7b94de7c9f3c",
+  "fileSize": 127955,
+  "status": 1,
+  "apiVersion": 1,
+  "tvTypes": [
+    "Others"
+  ],
+  "authors": [
+    "SafakStream"
+  ],
+  "description": "\u26a0\ufe0f BETA \u26a0\ufe0f Filmleri ve dizileri canl\u0131 sohbet ile ger\u00e7ek zamanl\u0131 olarak birlikte izleyin (5 kullan\u0131c\u0131ya kadar).",
+  "language": "tr",
+  "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/WatchParty_icon.png",
+  "repositoryUrl": "https://github.com/SafakStream/SafakStream"
+  },
+  {
+  "name": "YouTube",
+  "internalName": "YouTube",
+  "pluginClassName": "com.safakstream.youtube.YouTubePlugin",
+  "version": 1,
+  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/YouTube.cs3",
+  "fileHash": "sha256-0e5d0d82dc877c944888bd90ce73fa5631ae1a12927434d22f7c9e969d0ae485",
+  "fileSize": 40630,
+  "status": 1,
+  "apiVersion": 1,
+  "tvTypes": [
+    "Others"
+  ],
+  "authors": [
+    "SafakStream"
+  ],
+  "description": "YouTube üzerindeki videolar, oynatma listeleri ve kanallar için SafakStream eklentisi.",
+  "language": "tr",
+  "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/YouTube.png",
+  "repositoryUrl": "https://github.com/SafakStream/SafakStream"
+  },
+  {
+  "name": "TRGoals",
+  "internalName": "TRGoals",
+  "pluginClassName": "com.safakstream.trgoals.TRGoalsPlugin",
+  "version": 1,
+  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/TRGoals.cs3",
+  "fileHash": "sha256-2c362b0b8045a050b89e636eb46fd993b31b16b9eb23e43ed8ba55eedbe87281",
+  "fileSize": 171748,
+  "status": 1,
+  "apiVersion": 1,
+  "tvTypes": [
+    "Live"
+  ],
+  "authors": [
+    "SafakStream"
+  ],
+  "description": "TRGoals dinamik canlı spor yayınları için SafakStream eklentisi.",
+  "language": "tr",
+  "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/TRGoals.png",
+  "repositoryUrl": "https://github.com/SafakStream/SafakStream"
+  },
+  {
+  "name": "DiziPal",
+  "internalName": "DiziPal",
+  "pluginClassName": "com.safakstream.dizipal.DiziPalPlugin",
+  "version": 1,
+  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/DiziPal.cs3",
+  "fileHash": "sha256-871b453ed8a6c6020f34004dfa6e70a2973244290a148660cdfb2d77df1fd85d",
+  "fileSize": 29357,
+  "apiVersion": 1,
+  "repositoryUrl": "https://github.com/SafakStream/SafakStream",
+  "authors": [
+    "SafakStream"
+  ],
+  "status": 1,
+  "language": "tr",
+  "tvTypes": [
+    "TvSeries",
+    "Movie"
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/DiziPal.png",
+  "description": "en yeni dizileri güvenli ve hızlı şekilde sunar."
+  },
+  {
+    "name": "InatTV",
+    "internalName": "InatTV",
+    "pluginClassName": "com.safakstream.inattv.InatPlugin",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/InatTV.cs3",
+    "fileHash": "sha256-f5844ea0a66ceb05973a70a8f446c38e424adfc2792c58bcd49cc364dcf784ef",
+    "fileSize": 132127,
+    "status": 1,
+    "authors": [
+      "SafakStream"
+    ],
+    "description": "Inat TV · SafakStream canlı yayın sağlayıcısı.",
+    "repositoryUrl": "https://github.com/SafakStream/SafakStream",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/InatTV.png",
+    "apiVersion": 1
+  },
+  {
+  "name": "InatBox",
+  "internalName": "InatBox",
+  "pluginClassName": "com.safakstream.inatbox.InatBoxPlugin",
+  "version": 1,
+  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/InatBox.cs3?v=1",
+  "fileHash": "sha256-2ed699516bff160c296f2ba63cbe1fb19d4a82426cac30c55f64f89bb7b811c3",
+  "fileSize": 215155,
+  "status": 1,
+  "authors": [
+    "SafakStream"
+  ],
+  "description": "Canlı spor müsabakaları, ulusal kanallar ve geniş film/dizi arşivini bir arada sunan InatBox yayın sağlayıcısı.",
+  "repositoryUrl": "https://github.com/SafakStream/SafakStream",
+  "language": "tr",
+  "tvTypes": [
+    "Movie",
+    "TvSeries",
+    "Live"
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/InatBox.png",
+  "apiVersion": 1
+},
+  {
+  "name": "Streamed",
+  "internalName": "Streamed",
+  "pluginClassName": "com.safakstream.streamed.StreamedPlugin",
+  "version": 1,
+  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/Streamed.cs3",
+  "fileHash": "sha256-85ae4da66e60e2c593c503734899ac2e47ceac539948ad56f5565beb5063972d",
+  "fileSize": 30824,
+  "status": 1,
+  "authors": [
+    "SafakStream"
+  ],
+  "description": "Uluslararası spor karşılaşmaları, anlık maç yayınları ve dinamik kaynak akışlarını sağlayan canlı yayın sağlayıcısı.",
+  "repositoryUrl": "https://github.com/SafakStream/SafakStream",
+  "language": "en",
+  "tvTypes": [
+    "Live"
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/Streamed.png",
+  "apiVersion": 1
+  }
   ]
-}

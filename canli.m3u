@@ -3,9 +3,6 @@
 #EXTINF:-1 group-title="Sport",4K TR: EUROSPORT 1 HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2078862937000000000000
 
-#EXTINF:-1 group-title="Sport",4K TR: EUROSPORT 2 HD (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4117227962000000000000
-
 #EXTINF:-1 group-title="Sport",EUROSPORT 1
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3271328843000000000000
 
@@ -54,9 +51,6 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",4K TR: A2 HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2019055277000000000000
 
-#EXTINF:-1 group-title="Genel",4K TR: AK T TV HD (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3445585687000000000000
-
 #EXTINF:-1 group-title="Genel",4K TR: ATV HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2325261286000000000000
 
@@ -75,11 +69,17 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",4K TR: BOOMERANG (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3510107618000000000000
 
+#EXTINF:-1 group-title="Kids",4K TR: CARTOON NETWORK (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3278185898000000000000
+
 #EXTINF:-1 group-title="Genel",4K TR: CNN T RK HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2056768647000000000000
 
 #EXTINF:-1 group-title="Genel",4K TR: DA VINCI (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F410345406000000000000
+
+#EXTINF:-1 group-title="Documentary",4K TR: DISCOVERY CHANNEL HD (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4017734592000000000000
 
 #EXTINF:-1 group-title="Kids",4K TR: DISNEY JUNIOR (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F649228722000000000000
@@ -90,8 +90,11 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",4K TR: DREAM T RK (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4266683025000000000000
 
-#EXTINF:-1 group-title="Genel",4K TR: DUCK TV HD (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1709129189000000000000
+#EXTINF:-1 group-title="Genel",4K TR: EKOL TV (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2706210049000000000000
+
+#EXTINF:-1 group-title="Genel",4K TR: ENGLISH CLUB TV (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F925055356000000000000
 
 #EXTINF:-1 group-title="Genel",4K TR: EPIC DRAMA (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F678261693000000000000
@@ -164,9 +167,6 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 
 #EXTINF:-1 group-title="Genel",4K TR: NUMBER1 TV HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1526602599000000000000
-
-#EXTINF:-1 group-title="Genel",4K TR: POWER TURK HD (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4244447384000000000000
 
 #EXTINF:-1 group-title="Genel",4K TR: POWER TV HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1307965662000000000000
@@ -254,9 +254,6 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 
 #EXTINF:-1 group-title="Genel",4K TR: TRT M Z K (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F970382162000000000000
-
-#EXTINF:-1 group-title="Genel",4K TR: TRT OCUK HD (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3029180506000000000000
 
 #EXTINF:-1 group-title="Sport",4K TR: TRT SPOR HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2262969938000000000000
@@ -351,6 +348,9 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",ADA TV
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2134735285000000000000
 
+#EXTINF:-1 group-title="Genel",ADANA TV (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F225124967000000000000
+
 #EXTINF:-1 group-title="Genel",ADIYAMAN MERCAN TV (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3055235391000000000000
 
@@ -374,9 +374,6 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 
 #EXTINF:-1 group-title="Genel",AKIT TV
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1862240206000000000000
-
-#EXTINF:-1 group-title="Genel",AKLILI TV (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3737299250000000000000
 
 #EXTINF:-1 group-title="Genel",AKSARAY KANAL 68 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F955806672000000000000
@@ -425,9 +422,6 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 
 #EXTINF:-1 group-title="Documentary",ANIMAL PLANET (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2110161355000000000000
-
-#EXTINF:-1 group-title="Documentary",ANIMAL PLANET HD (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3913298991000000000000
 
 #EXTINF:-1 group-title="Genel",ANIMATION 1 HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F727427437000000000000
@@ -525,6 +519,9 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",BEIN 1 FEED (720P) (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1363827223000000000000
 
+#EXTINF:-1 group-title="Genel",BEIN 1 SD (360P) (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3692337241000000000000
+
 #EXTINF:-1 group-title="Genel",BEIN 1 SD (480P) (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2919229346000000000000
 
@@ -555,6 +552,9 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Movies",BEIN MOVIES ACTION 2
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F650851542000000000000
 
+#EXTINF:-1 group-title="Movies",BEIN MOVIES FAMILY
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1322228068000000000000
+
 #EXTINF:-1 group-title="Movies",BEIN MOVIES PREMIERE
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2197747964000000000000
 
@@ -582,7 +582,7 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",BEIN SERIES COMEDY (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1668144911000000000000
 
-#EXTINF:-1 group-title="Genel",BEIN SERIES DRAMA (No-Freeze)
+#EXTINF:-1 group-title="Genel",BEIN SERIES DRAMA
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F727975195000000000000
 
 #EXTINF:-1 group-title="Genel",BEIN SERIES SCI-FI (No-Freeze)
@@ -602,6 +602,9 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 
 #EXTINF:-1 group-title="Sport",BEIN SPORTS 1 [LIVE DURING EVENTS ONLY] (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3428984703000000000000
+
+#EXTINF:-1 group-title="Sport",BEIN SPORTS 1 + (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2576216897000000000000
 
 #EXTINF:-1 group-title="Sport",BEIN SPORTS 1 50 FPS (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1352421053000000000000
@@ -702,8 +705,11 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Sport",BEIN SPORTS MAX 1 HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F225281423000000000000
 
-#EXTINF:-1 group-title="Sport",BEIN SPORTS MAX 2 (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F258968235000000000000
+#EXTINF:-1 group-title="Sport",BEIN SPORTS MAX 2
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4017295127000000000000
+
+#EXTINF:-1 group-title="Sport",BEIN SPORTS MAX 2 FHD (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3407936242000000000000
 
 #EXTINF:-1 group-title="Sport",BEIN SPORTS MAX 2 HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2212659820000000000000
@@ -716,6 +722,9 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 
 #EXTINF:-1 group-title="Genel",BENGUTURK (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3677880546000000000000
+
+#EXTINF:-1 group-title="Genel",BEST FM T RK E POP (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2591986518000000000000
 
 #EXTINF:-1 group-title="Genel",BEYAZ HD+ SD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1020985035000000000000
@@ -780,9 +789,6 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",CAILLOU TV (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3626289230000000000000
 
-#EXTINF:-1 group-title="Genel",CAN TV (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3900702315000000000000
-
 #EXTINF:-1 group-title="Kids",CARTOON NETWORK
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F478549032000000000000
 
@@ -797,6 +803,9 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 
 #EXTINF:-1 group-title="Genel",CBEEBIES HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2672851185000000000000
+
+#EXTINF:-1 group-title="Genel",CEM TV (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1456482631000000000000
 
 #EXTINF:-1 group-title="Genel",CENGIZ KURTOGLU (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1871521087000000000000
@@ -818,6 +827,9 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 
 #EXTINF:-1 group-title="Genel",CINEMAXIMUM 2 ʜᴅ (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F328963246000000000000
+
+#EXTINF:-1 group-title="Genel",CINEMAXIMUM 3 ʜᴅ (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3524610926000000000000
 
 #EXTINF:-1 group-title="Genel",CINEMAXIMUM 4 ʜᴅ (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4214120173000000000000
@@ -843,23 +855,17 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",CINEMAXIMUM DRAM ʜᴅ (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2936937751000000000000
 
-#EXTINF:-1 group-title="Genel",CINEMAXIMUM FANTASTIK ʜᴅ (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2562962072000000000000
-
 #EXTINF:-1 group-title="Genel",CINEMAXIMUM GERILIM ʜᴅ (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1360158680000000000000
 
 #EXTINF:-1 group-title="Genel",CINEMAXIMUM GIZEM ʜᴅ (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2704289481000000000000
 
-#EXTINF:-1 group-title="Genel",CINEMAXIMUM KOMEDI ʜᴅ (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F112670163000000000000
+#EXTINF:-1 group-title="Genel",CINEMAXIMUM KORKU ʜᴅ (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3137399142000000000000
 
 #EXTINF:-1 group-title="Genel",CINEMAXIMUM ROMANTIK ʜᴅ (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1642556261000000000000
-
-#EXTINF:-1 group-title="Genel",CINEMAXIMUM SU ʜᴅ (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3653679102000000000000
 
 #EXTINF:-1 group-title="Genel",CINEMAXIMUM YERLI 1 ʜᴅ (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3743970784000000000000
@@ -873,14 +879,17 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",CINEMAXIMUM YERLI 5 ʜᴅ (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1878066786000000000000
 
-#EXTINF:-1 group-title="Genel",CINEVERSE AKS YON 4 (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F325208253000000000000
-
 #EXTINF:-1 group-title="Genel",CINEVERSE AKS YON 6 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1772231645000000000000
 
 #EXTINF:-1 group-title="Genel",CINEVERSE AKS YON 7 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1422013037000000000000
+
+#EXTINF:-1 group-title="Genel",CINEVERSE B L MKURGU 1 (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F759608989000000000000
+
+#EXTINF:-1 group-title="Genel",CINEVERSE B L MKURGU 2 (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1793510477000000000000
 
 #EXTINF:-1 group-title="Genel",CINEVERSE B L MKURGU 3 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1468458493000000000000
@@ -897,32 +906,20 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",CINEVERSE FANTASY 1 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1215554455000000000000
 
+#EXTINF:-1 group-title="Genel",CINEVERSE FANTASY 2 (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F265525575000000000000
+
 #EXTINF:-1 group-title="Genel",CINEVERSE FANTASY 3 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F850637047000000000000
 
 #EXTINF:-1 group-title="Genel",CINEVERSE FANTASY 5 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3186836823000000000000
 
-#EXTINF:-1 group-title="Genel",CINEVERSE FANTASY 6 (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4199759751000000000000
-
 #EXTINF:-1 group-title="Genel",CINEVERSE FANTASY 7 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3342014007000000000000
 
-#EXTINF:-1 group-title="Genel",CINEVERSE FANTASY 8 (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1164149222000000000000
-
 #EXTINF:-1 group-title="Genel",CINEVERSE KORKU 1 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1801246833000000000000
-
-#EXTINF:-1 group-title="Genel",CINEVERSE KORKU 3 (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F295471889000000000000
-
-#EXTINF:-1 group-title="Genel",CINEVERSE KORKU 4 (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2747029249000000000000
-
-#EXTINF:-1 group-title="Genel",CINEVERSE KORKU 5 (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2665250481000000000000
 
 #EXTINF:-1 group-title="Genel",CINEVERSE KORKU 6 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3648783457000000000000
@@ -930,17 +927,17 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",CINEVERSE KORKU 7 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3827051985000000000000
 
-#EXTINF:-1 group-title="Genel",CINEVERSE KORKU 8 (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1716304384000000000000
-
-#EXTINF:-1 group-title="Genel",CINEVERSE MARVEL 2 (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3779226492000000000000
-
 #EXTINF:-1 group-title="Genel",CINEVERSE MARVEL 4 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1845665500000000000000
 
-#EXTINF:-1 group-title="Genel",CINEVERSE V ZYON 4 (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1222843410000000000000
+#EXTINF:-1 group-title="Genel",CINEVERSE V ZYON 1 (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2147717986000000000000
+
+#EXTINF:-1 group-title="Genel",CINEVERSE V ZYON 2 (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3349408178000000000000
+
+#EXTINF:-1 group-title="Genel",CINEVERSE V ZYON 3 (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4207132674000000000000
 
 #EXTINF:-1 group-title="Genel",CINEVERSE V ZYON 5 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1971533218000000000000
@@ -993,8 +990,8 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",DHA (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4022359276000000000000
 
-#EXTINF:-1 group-title="Genel",DIGI MAX (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1278447576000000000000
+#EXTINF:-1 group-title="Genel",DIM TV (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1072972009000000000000
 
 #EXTINF:-1 group-title="Documentary",DISCOVERY CHANNEL (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3079995901000000000000
@@ -1002,8 +999,8 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Documentary",DISCOVERY CHANNEL HD+ (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F695705778000000000000
 
-#EXTINF:-1 group-title="Documentary",DISCOVERY ID
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F972730032000000000000
+#EXTINF:-1 group-title="Documentary",DISCOVERY ID (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2095404060000000000000
 
 #EXTINF:-1 group-title="Documentary",DISCOVERY IDX HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F970098662000000000000
@@ -1026,13 +1023,16 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Kids",DISNEY JR (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3963678097000000000000
 
+#EXTINF:-1 group-title="Kids",DISNEY JR HD (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4108765291000000000000
+
 #EXTINF:-1 group-title="Kids",DISNEY JR HD+ (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1772892321000000000000
 
 #EXTINF:-1 group-title="Kids",DISNEY XD HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3422853680000000000000
 
-#EXTINF:-1 group-title="Genel",DIYANET TV (No-Freeze)
+#EXTINF:-1 group-title="Genel",DIYANET TV
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2131958841000000000000
 
 #EXTINF:-1 group-title="Genel",DIYAR TV (No-Freeze)
@@ -1051,7 +1051,7 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1195429280000000000000
 
 #EXTINF:-1 group-title="Genel",DMAX (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3239529951000000000000
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3157210436000000000000
 
 #EXTINF:-1 group-title="Genel",DMAX HEVC (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3928493138000000000000
@@ -1095,11 +1095,14 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",EDIRNE ETV (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F658726604000000000000
 
+#EXTINF:-1 group-title="Genel",EFKAR FM CANLI RADYO (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2156922182000000000000
+
 #EXTINF:-1 group-title="Genel",EGE ILE GAGA (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2625879722000000000000
 
-#EXTINF:-1 group-title="Genel",EGE TURK TV (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4225938876000000000000
+#EXTINF:-1 group-title="Genel",EKIN T RK TV (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F657495272000000000000
 
 #EXTINF:-1 group-title="Genel",EKIN TURK (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F666401379000000000000
@@ -1112,6 +1115,9 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 
 #EXTINF:-1 group-title="Genel",EKOL TV
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F414950309000000000000
+
+#EXTINF:-1 group-title="Genel",EKOL TV SD (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3549408298000000000000
 
 #EXTINF:-1 group-title="Genel",EKOTURK (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1201456793000000000000
@@ -1131,9 +1137,6 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",ENO AKSIYON 1 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F633768195000000000000
 
-#EXTINF:-1 group-title="Genel",ENO ANIMASYON (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F659694487000000000000
-
 #EXTINF:-1 group-title="Genel",ENO VIZYON 11 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1545196944000000000000
 
@@ -1146,7 +1149,10 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",ENO VIZYON 5 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2176192715000000000000
 
-#EXTINF:-1 group-title="Genel",ENO WESTERN (No-Freeze)
+#EXTINF:-1 group-title="Genel",ENO VIZYON 7 (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4218831787000000000000
+
+#EXTINF:-1 group-title="Genel",ENO WESTERN
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1134525301000000000000
 
 #EXTINF:-1 group-title="Genel",ER TV (No-Freeze)
@@ -1154,9 +1160,6 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 
 #EXTINF:-1 group-title="Genel",ERCIS TV (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2901457550000000000000
-
-#EXTINF:-1 group-title="Genel",ERTV (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F221836468000000000000
 
 #EXTINF:-1 group-title="Genel",ERZURUM WEB TV (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1736962708000000000000
@@ -1170,9 +1173,6 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",ETV KAYSERI (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1218353983000000000000
 
-#EXTINF:-1 group-title="Genel",ETV MANISA (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2024954002000000000000
-
 #EXTINF:-1 group-title="Genel",EURO D
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2784530383000000000000
 
@@ -1181,9 +1181,6 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 
 #EXTINF:-1 group-title="Sport",EUROSPORT1 HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3793200644000000000000
-
-#EXTINF:-1 group-title="Sport",EUROSPORT2 HD (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1821942247000000000000
 
 #EXTINF:-1 group-title="Genel",EUROSTAR (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2147614081000000000000
@@ -1223,6 +1220,9 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 
 #EXTINF:-1 group-title="Sport",EXXEN TV SPOR 1 FEED (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1091403912000000000000
+
+#EXTINF:-1 group-title="Sport",EXXEN TV SPOR 1 HD (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1204200801000000000000
 
 #EXTINF:-1 group-title="Sport",EXXEN TV SPOR 1 UHD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3814925371000000000000
@@ -1266,6 +1266,9 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Movies",FILMBOX AKSIYON (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1130352730000000000000
 
+#EXTINF:-1 group-title="Movies",FILMBOX FANTASTIC (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2267707661000000000000
+
 #EXTINF:-1 group-title="Movies",FILMBOX KADIR INANIR (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3268085547000000000000
 
@@ -1275,8 +1278,35 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",FINEST TV (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2663765748000000000000
 
+#EXTINF:-1 group-title="Movies",FIX CINEMA ACTION (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F140294889000000000000
+
+#EXTINF:-1 group-title="Movies",FIX CINEMA BILM KURGU (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2480231926000000000000
+
+#EXTINF:-1 group-title="Movies",FIX CINEMA COMEDY (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4140720869000000000000
+
+#EXTINF:-1 group-title="Movies",FIX CINEMA DRAM (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2830763591000000000000
+
+#EXTINF:-1 group-title="Movies",FIX CINEMA FANTASTIC (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2459747332000000000000
+
+#EXTINF:-1 group-title="Movies",FIX CINEMA KORKU (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2778910791000000000000
+
+#EXTINF:-1 group-title="Movies",FIX CINEMA MACERA (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2958075443000000000000
+
 #EXTINF:-1 group-title="Movies",FIX CINEMA NETFLIX (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3216985800000000000000
+
+#EXTINF:-1 group-title="Movies",FIX CINEMA YERLI (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F239201347000000000000
+
+#EXTINF:-1 group-title="Movies",FIX CINEMA YESILCAM (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4110861662000000000000
 
 #EXTINF:-1 group-title="News",FLASH HABER TV (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3806979011000000000000
@@ -1286,6 +1316,12 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 
 #EXTINF:-1 group-title="Genel",FLASH TV HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2027331096000000000000
+
+#EXTINF:-1 group-title="Genel",FM TV (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4253863829000000000000
+
+#EXTINF:-1 group-title="Genel",FMTV (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3681963823000000000000
 
 #EXTINF:-1 group-title="Genel",FORTUNA TV (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4192931907000000000000
@@ -1308,6 +1344,9 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",GAZIANTEP OLAY TV (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2413536917000000000000
 
+#EXTINF:-1 group-title="Genel",GLOBAL BOX ACTION (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2456232539000000000000
+
 #EXTINF:-1 group-title="Genel",GLOBAL BOX COMEDY (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1828059735000000000000
 
@@ -1317,11 +1356,20 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",GLOBAL BOX FANTASTIC (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1557465046000000000000
 
+#EXTINF:-1 group-title="Genel",GLOBAL BOX KEMAL SUNAL (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4275446197000000000000
+
 #EXTINF:-1 group-title="Genel",GLOBAL BOX KORKU (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F562681030000000000000
 
 #EXTINF:-1 group-title="Genel",GLOBAL BOX VIZYON (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2960112808000000000000
+
+#EXTINF:-1 group-title="Genel",GLOBAL BOX YE IL AM (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2046943434000000000000
+
+#EXTINF:-1 group-title="Genel",GLOBAL BOX YERLI (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2322262210000000000000
 
 #EXTINF:-1 group-title="News",GLOBAL HABER HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1224377838000000000000
@@ -1350,8 +1398,8 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="News",HABER GLOBAL HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4069774068000000000000
 
-#EXTINF:-1 group-title="News",HABER T RK HD+ SD (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3225335454000000000000
+#EXTINF:-1 group-title="News",HABER GLOBAL HD+ SD (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4144668031000000000000
 
 #EXTINF:-1 group-title="News",HABER TURK (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F464378170000000000000
@@ -1371,8 +1419,8 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="News",HABERTURK RAW (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2129890787000000000000
 
-#EXTINF:-1 group-title="Genel",HALK TV
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3986444106000000000000
+#EXTINF:-1 group-title="Genel",HALK TV (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4148513719000000000000
 
 #EXTINF:-1 group-title="Genel",HALK TV HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1771999100000000000000
@@ -1394,6 +1442,12 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 
 #EXTINF:-1 group-title="Genel",HORROR 2 HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1506105715000000000000
+
+#EXTINF:-1 group-title="Genel",HORROR 3 HD (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2507102701000000000000
+
+#EXTINF:-1 group-title="Genel",HORROR 4 HD (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2678739188000000000000
 
 #EXTINF:-1 group-title="Genel",HORROR 5 HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1392529514000000000000
@@ -1436,6 +1490,9 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 
 #EXTINF:-1 group-title="Genel",ILKE TV (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1743510188000000000000
+
+#EXTINF:-1 group-title="Genel",ISVI RE VIZYON TV (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1676737490000000000000
 
 #EXTINF:-1 group-title="Genel",IZ TV (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3847791361000000000000
@@ -1518,7 +1575,7 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",KANAL 7 RAW (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F817959285000000000000
 
-#EXTINF:-1 group-title="Genel",KANAL AVRUPA
+#EXTINF:-1 group-title="Genel",KANAL AVRUPA (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4085283006000000000000
 
 #EXTINF:-1 group-title="Genel",KANAL D
@@ -1596,11 +1653,17 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",KIBRIS TV (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F631930666000000000000
 
+#EXTINF:-1 group-title="Genel",KINGBOX ACTION (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3186688793000000000000
+
 #EXTINF:-1 group-title="Genel",KOCAELI TV (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3702528985000000000000
 
 #EXTINF:-1 group-title="Genel",KON TV
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1587995854000000000000
+
+#EXTINF:-1 group-title="Genel",KONYA KON TV (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3759364273000000000000
 
 #EXTINF:-1 group-title="Genel",KONYA OLAY TV (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F578380861000000000000
@@ -1617,8 +1680,8 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",KOZA TV HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4002657935000000000000
 
-#EXTINF:-1 group-title="Genel",KRAL FM (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3585033856000000000000
+#EXTINF:-1 group-title="Genel",KRAL FM ARABESK (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2220807783000000000000
 
 #EXTINF:-1 group-title="Genel",KRAL POP HD+ (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4012432749000000000000
@@ -1629,11 +1692,8 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",KRAL SAKIR (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1578872642000000000000
 
-#EXTINF:-1 group-title="Genel",KRAL TV (No-Freeze)
+#EXTINF:-1 group-title="Genel",KRAL TV
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1131281902000000000000
-
-#EXTINF:-1 group-title="Genel",KRAL TV HD (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2879812830000000000000
 
 #EXTINF:-1 group-title="Genel",KRT (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F331685130000000000000
@@ -1647,13 +1707,13 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",KRT TV HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F535260022000000000000
 
-#EXTINF:-1 group-title="Genel",KUDUS TV
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F522050268000000000000
-
 #EXTINF:-1 group-title="Genel",KUDÜS TV (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3035951797000000000000
 
-#EXTINF:-1 group-title="Genel",KUKULI TV (No-Freeze)
+#EXTINF:-1 group-title="Genel",KUDUS TV (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2114384051000000000000
+
+#EXTINF:-1 group-title="Genel",KUKULI TV
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F354256147000000000000
 
 #EXTINF:-1 group-title="Genel",LALEGUL TV
@@ -1740,6 +1800,9 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",MAX TURK (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1222272481000000000000
 
+#EXTINF:-1 group-title="Genel",MAX VIZYON (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F101690970000000000000
+
 #EXTINF:-1 group-title="Genel",MAX VIZYON 1 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3792548191000000000000
 
@@ -1754,6 +1817,9 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 
 #EXTINF:-1 group-title="Genel",MAX WESTERN (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F523018472000000000000
+
+#EXTINF:-1 group-title="Genel",MBAT FM ARABESK (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2719293629000000000000
 
 #EXTINF:-1 group-title="Genel",MC EU (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3849971860000000000000
@@ -1776,6 +1842,9 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",MESAJ TV (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1751593588000000000000
 
+#EXTINF:-1 group-title="Genel",MGC (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2073766557000000000000
+
 #EXTINF:-1 group-title="Genel",MGC TV (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2591544773000000000000
 
@@ -1790,6 +1859,9 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 
 #EXTINF:-1 group-title="Genel",MINIKA GO
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2937701421000000000000
+
+#EXTINF:-1 group-title="Genel",MONTAG & FREITAG BULLI (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2862980701000000000000
 
 #EXTINF:-1 group-title="Movies",MOVIE SMART ACTION (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1237460948000000000000
@@ -1817,9 +1889,6 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 
 #EXTINF:-1 group-title="Genel",MTV LIVE (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F417807156000000000000
-
-#EXTINF:-1 group-title="Genel",MUSLUM GURSES (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F195374549000000000000
 
 #EXTINF:-1 group-title="Documentary",NAT GEO (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1960546091000000000000
@@ -1857,8 +1926,14 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Kids",NICKELODEON
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3092562301000000000000
 
+#EXTINF:-1 group-title="Kids",NICKELODEON HD (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F503443750000000000000
+
 #EXTINF:-1 group-title="Genel",NILOYA HD+ (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F692811579000000000000
+
+#EXTINF:-1 group-title="Genel",NILOYA TV (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F757435988000000000000
 
 #EXTINF:-1 group-title="Genel",NOW (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3105184056000000000000
@@ -1899,9 +1974,6 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="News",NTV HABER HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1220417659000000000000
 
-#EXTINF:-1 group-title="News",NTV HABER HEVC (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1712849933000000000000
-
 #EXTINF:-1 group-title="Genel",NTV HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3194104127000000000000
 
@@ -1929,8 +2001,8 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",OLAY TURK (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F382635550000000000000
 
-#EXTINF:-1 group-title="Genel",ON 4 (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2257593699000000000000
+#EXTINF:-1 group-title="Genel",ON 4
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1338471740000000000000
 
 #EXTINF:-1 group-title="Genel",ON 4 TV (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4203475144000000000000
@@ -1983,6 +2055,9 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",POWER LOVE (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1783508809000000000000
 
+#EXTINF:-1 group-title="Genel",POWER T RK T RK E POP (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2703806315000000000000
+
 #EXTINF:-1 group-title="Genel",POWER TURK (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F538668348000000000000
 
@@ -2012,6 +2087,9 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 
 #EXTINF:-1 group-title="Genel",PROTURK GERILIM (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1293208483000000000000
+
+#EXTINF:-1 group-title="Genel",PROTURK KEMAL SUNAL (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1245475474000000000000
 
 #EXTINF:-1 group-title="Genel",PROTURK KORKU (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1194247131000000000000
@@ -2064,11 +2142,8 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",REHBER TV
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4239242367000000000000
 
-#EXTINF:-1 group-title="Genel",RETRO T RK T RK E KLASIK (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3415299258000000000000
-
-#EXTINF:-1 group-title="Genel",RUMELI TV
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3918815882000000000000
+#EXTINF:-1 group-title="Genel",RUMELI TV (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3997988254000000000000
 
 #EXTINF:-1 group-title="Genel",S PER FM T RK E POP (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F460410710000000000000
@@ -2079,23 +2154,11 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Sport",S SPORT 2
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1234604880000000000000
 
-#EXTINF:-1 group-title="Sport",S SPORT+10 MAC SAATI (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1024063139000000000000
-
 #EXTINF:-1 group-title="Sport",S SPORT+4 MAC SAATI (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1507829436000000000000
 
-#EXTINF:-1 group-title="Sport",S SPORT+6 MAC SAATI (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4049147693000000000000
-
 #EXTINF:-1 group-title="Sport",S SPORT+7 MAC SAATI (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1218628805000000000000
-
-#EXTINF:-1 group-title="Sport",S SPORT+8 MAC SAATI (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F472518488000000000000
-
-#EXTINF:-1 group-title="Sport",S SPORT+9 MAC SAATI (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2781992112000000000000
 
 #EXTINF:-1 group-title="Genel",S ZC SZC TV (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2466905700000000000000
@@ -2114,9 +2177,6 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 
 #EXTINF:-1 group-title="Genel",S-SPORT PLUS 1 MACZAMANI (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3526620942000000000000
-
-#EXTINF:-1 group-title="Genel",S-SPORT PLUS 2 MACZAMANI (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3276709239000000000000
 
 #EXTINF:-1 group-title="Genel",S-SPORT PLUS 3 MACZAMANI (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2058700447000000000000
@@ -2142,7 +2202,7 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Sport",S-SPORTS 2 SD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2643999032000000000000
 
-#EXTINF:-1 group-title="Genel",SALON 1
+#EXTINF:-1 group-title="Genel",SALON 1 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2217333005000000000000
 
 #EXTINF:-1 group-title="Genel",SALON 2
@@ -2199,6 +2259,9 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",SHOW RADYO (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3509899144000000000000
 
+#EXTINF:-1 group-title="Genel",SHOW RADYO T RK E POP (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1252306835000000000000
+
 #EXTINF:-1 group-title="Genel",SHOW T RK EUROPA (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F605929821000000000000
 
@@ -2232,9 +2295,6 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Movies",SINEMA 1002 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4269042044000000000000
 
-#EXTINF:-1 group-title="Movies",SINEMA AILE 1 (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4245508443000000000000
-
 #EXTINF:-1 group-title="Movies",SINEMA AILE 2 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3131911051000000000000
 
@@ -2249,6 +2309,9 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 
 #EXTINF:-1 group-title="Movies",SINEMA TV (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1617719941000000000000
+
+#EXTINF:-1 group-title="Movies",SINEMA YERLI 1 (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2484805699000000000000
 
 #EXTINF:-1 group-title="Genel",SINEMAX COMEDI (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F846127862000000000000
@@ -2270,6 +2333,9 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 
 #EXTINF:-1 group-title="Genel",SIRINLER TV
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1766241745000000000000
+
+#EXTINF:-1 group-title="Genel",SIVAS (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F985769071000000000000
 
 #EXTINF:-1 group-title="Genel",SL NILOYA (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3491525845000000000000
@@ -2313,6 +2379,9 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Sport",SPORTS TV (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3422827985000000000000
 
+#EXTINF:-1 group-title="Genel",STANBUL FM T RK E POP (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2411300087000000000000
+
 #EXTINF:-1 group-title="Genel",STAR HD (H265) (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1134124382000000000000
 
@@ -2343,9 +2412,6 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",SÜNGER BOB (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3868582025000000000000
 
-#EXTINF:-1 group-title="Genel",SURELER VE T RKCE MEALI (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3430890461000000000000
-
 #EXTINF:-1 group-title="Genel",SZC (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2036794972000000000000
 
@@ -2358,14 +2424,8 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Sport",TABII SPOR 1 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1097795141000000000000
 
-#EXTINF:-1 group-title="Sport",TABII SPOR 1 4K (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3830691316000000000000
-
 #EXTINF:-1 group-title="Sport",TABII SPOR 1 720P (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3665914763000000000000
-
-#EXTINF:-1 group-title="Sport",TABII SPOR 1 UHD (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3107708522000000000000
 
 #EXTINF:-1 group-title="Sport",TABII SPOR 2 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F114261141000000000000
@@ -2373,17 +2433,11 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Sport",TABII SPOR 2 HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2490165372000000000000
 
-#EXTINF:-1 group-title="Sport",TABII SPOR 2 UHD (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2159469231000000000000
-
 #EXTINF:-1 group-title="Sport",TABII SPOR 3 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1001346341000000000000
 
 #EXTINF:-1 group-title="Sport",TABII SPOR 3 HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1489430754000000000000
-
-#EXTINF:-1 group-title="Sport",TABII SPOR 3 UHD (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2546857708000000000000
 
 #EXTINF:-1 group-title="Sport",TABII SPOR 4 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2307885365000000000000
@@ -2391,14 +2445,11 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Sport",TABII SPOR 4 HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1375986171000000000000
 
-#EXTINF:-1 group-title="Sport",TABII SPOR 4 UHD (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4088175397000000000000
-
-#EXTINF:-1 group-title="Sport",TABII SPOR 5 (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3035603077000000000000
-
 #EXTINF:-1 group-title="Sport",TABII SPOR 5 HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2661933413000000000000
+
+#EXTINF:-1 group-title="Sport",TABII SPOR 5 UHD (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3839332198000000000000
 
 #EXTINF:-1 group-title="Sport",TABII SPOR 6 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4082096725000000000000
@@ -2484,6 +2535,9 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",TIVI 6 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F774168016000000000000
 
+#EXTINF:-1 group-title="Genel",TIVI TÜRK (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F702157954000000000000
+
 #EXTINF:-1 group-title="Sport",TIVIBU SPOR 1 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2565972338000000000000
 
@@ -2526,6 +2580,12 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Sport",TIVIBUSPOR 3 FHD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2186389950000000000000
 
+#EXTINF:-1 group-title="Sport",TIVIBUSPOR 3 HD (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2616624010000000000000
+
+#EXTINF:-1 group-title="Sport",TIVIBUSPOR SPOR HD (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3653515858000000000000
+
 #EXTINF:-1 group-title="Genel",TJK TV
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2322888064000000000000
 
@@ -2541,11 +2601,11 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",TMB
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3465087001000000000000
 
+#EXTINF:-1 group-title="Genel",TOM & JERRY (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4100185659000000000000
+
 #EXTINF:-1 group-title="Genel",TON TV (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3855597416000000000000
-
-#EXTINF:-1 group-title="News",TRABZON HABER 61 TV HD (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1840643644000000000000
 
 #EXTINF:-1 group-title="Genel",TRT 1
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F115261333000000000000
@@ -2574,6 +2634,9 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",TRT 2 UHD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2005305132000000000000
 
+#EXTINF:-1 group-title="Genel",TRT 4K (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3317656516000000000000
+
 #EXTINF:-1 group-title="Genel",TRT AVAZ
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4076672974000000000000
 
@@ -2591,9 +2654,6 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 
 #EXTINF:-1 group-title="Genel",TRT COCUK
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F792228122000000000000
-
-#EXTINF:-1 group-title="Genel",TRT COCUK RAW (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3979837190000000000000
 
 #EXTINF:-1 group-title="Genel",TRT DIYANET (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F458659205000000000000
@@ -2694,6 +2754,9 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",TUNCELI DERSIM 62 TV (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F942180218000000000000
 
+#EXTINF:-1 group-title="Genel",TURK ROCK (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2245395439000000000000
+
 #EXTINF:-1 group-title="News",TÜRKHABER TV (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2012038243000000000000
 
@@ -2701,7 +2764,7 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4073129368000000000000
 
 #EXTINF:-1 group-title="Genel",TV 100
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F163520723000000000000
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1685299472000000000000
 
 #EXTINF:-1 group-title="Genel",TV 100 HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F504009173000000000000
@@ -2715,8 +2778,8 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",TV 4
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1193276019000000000000
 
-#EXTINF:-1 group-title="Genel",TV 41
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F49546714000000000000
+#EXTINF:-1 group-title="Genel",TV 41 (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2106403864000000000000
 
 #EXTINF:-1 group-title="Genel",TV 42 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F976049864000000000000
@@ -2750,6 +2813,9 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 
 #EXTINF:-1 group-title="Genel",TV 8.5 FHD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1908265816000000000000
+
+#EXTINF:-1 group-title="Genel",TV 8.5 HD (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3472698776000000000000
 
 #EXTINF:-1 group-title="Genel",TV DEN (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3341720640000000000000
@@ -2786,9 +2852,6 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 
 #EXTINF:-1 group-title="Genel",TVNET HD (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1182480796000000000000
-
-#EXTINF:-1 group-title="Genel",TVO TV (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2916629658000000000000
 
 #EXTINF:-1 group-title="Genel",TYT TURK (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1840664880000000000000
@@ -2862,9 +2925,6 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",YENI KOCAELI TV (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F758663570000000000000
 
-#EXTINF:-1 group-title="Genel",YESILCAM (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1584335383000000000000
-
 #EXTINF:-1 group-title="Genel",YESILCAM 1 (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1952835738000000000000
 
@@ -2877,11 +2937,11 @@ https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2F
 #EXTINF:-1 group-title="Genel",YILDIZ TILBE (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F405072201000000000000
 
+#EXTINF:-1 group-title="Genel",YILDIZ TV EN (No-Freeze)
+https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1824316016000000000000
+
 #EXTINF:-1 group-title="Genel",YOL TV
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1071166054000000000000
-
-#EXTINF:-1 group-title="Genel",YOL TV SD (No-Freeze)
-https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F607077155000000000000
 
 #EXTINF:-1 group-title="Genel",YUNUS EMRE (No-Freeze)
 https://tvvoo.stremio-italia.eu/live/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3245297818000000000000
